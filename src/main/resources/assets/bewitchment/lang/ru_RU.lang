@@ -1,4 +1,4 @@
-﻿//CreativeTab
+//CreativeTab
 itemGroup.bewitchment_plants=Bewitchment - Растения и травы
 itemGroup.bewitchment_items=Bewitchment - Палки и камни
 itemGroup.bewitchment_blocks=Bewitchment - Блоки
@@ -612,9 +612,19 @@ witch.tooltip.bark_belt_description.name=Этот пояс защищает по
 item.book_of_shadows.name=Книга теней
 item.dusty_grimoire.name=Пыльный гримуар
 
-//Incantation
+//Commands
 commands.incantation.notFound=Силы, которые вы изгоняете, впадают в ничто
 commands.incantation.no_energy=Вы чувствуете прилив чар, но вам не хватает силы использовать их
+commands.set_transformation.usage=/setTransformation [тип] [уровень]
+commands.set_transformation.usage.no_transformation=Этот путь не существует
+commands.set_transformation.usage.invalid_level=Уровень отсутствует или вне зоны [0-10]
+commands.set_transformation.success=Преобразование установлено в %s, уровень %d
+commands.enable_fortune.error.already_active=Удача уже активна
+commands.enable_fortune.error.no_fortune=Сначала используйте хрустальный шар
+commands.enable_fortune.success=Удача активна
+commands.set_fortune.error.no_fortune=Удача не найдена
+commands.set_fortune.success=Удача установлена
+commands.error.no_console=Эта команда не может быть выполнена в консоли
 
 //Advancements
 achievement.bewitchment:craftMalachite=Давайте снова будем малахитом!
@@ -656,6 +666,9 @@ fortunes.bewitchment.meet_silverfish.name=Грязные паразиты пря
 fortunes.bewitchment.death.name=Путь впереди выглядит очень мрачным
 fortunes.bewitchment.meet_witch.name=Что-то злобное приходит
 fortunes.bewitchment.drop_bow.name=Пальцы не будут подчиняться, когда они больше всего нужны
+fortunes.bewitchment.treasure.name=You might be very rich, very soon.
+fortunes.bewitchment.merchant.name=You will stumble upon some good deals
+fortunes.bewitchment.shinies.name=Something glimmers in my sight.
 
 //Tarots
 tarot.enderman.name=Эндермен
@@ -663,6 +676,10 @@ tarot.diamonds.name=Алмазы
 tarot.iron_golem.name=Железный голем
 tarot.wither_skeleton.name=Скелет-иссушитель
 tarot.star.name=Ночная звезда
+tarot.moon.name=The Moon
+tarot.silver_sword.name=The Silver Sword
+tarot.hermit.name=The Hermit
+tarot.nitwit.name=The Nitwit
 
 //Entities
 entity.broom.name=Летающая метла
