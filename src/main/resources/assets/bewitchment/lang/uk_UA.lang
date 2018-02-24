@@ -1,0 +1,63 @@
+//CreativeTab
+itemGroup.bewitchment_plants=Bewitchment - Рослини і трави
+itemGroup.bewitchment_items=Bewitchment - Палиці та каміння
+itemGroup.bewitchment_blocks=Bewitchment - Блоки
+
+//Config
+bewitchment.config.world_gen=Генерація
+bewitchment.config.energy_hud=HUD Енергії
+bewitchment.config.brew_hud=HUD Зіль
+
+//Gui
+container.apiary=Пасіка
+container.oven=Жаровня
+
+////Names
+//Items
+item.seed_aconitum.name=Насіння аконіту
+item.seed_asphodel.name=Насіння асфоделі
+item.seed_belladonna.name=Насіння беладони
+item.seed_ginger.name=Насіння імбиру
+item.seed_kelp.name=Спори ламінарії
+item.seed_mint.name=Насіння м'яти
+item.seed_white_sage.name=Насіння шавлії білого
+item.seed_mandrake.name=Насіння мандрагори
+item.seed_lavender.name=Насіння лаванди
+item.seed_thistle.name=Насіння чортополоху
+item.seed_silphium.name=Насіння сильфія
+item.seed_tulsi.name=Насіння туслі
+item.seed_garlic.name=Насіння часнику
+item.seed_kenaf.name=Насіння кенафу
+item.seed_wormwood.name=Насіння полину
+item.seed_hellebore.name=Насіння чемернику
+
+//Crops
+item.aconitum.name=Аконіт
+item.asphodel.name=Асфоделія
+item.belladonna.name=Белладонна
+item.ginger.name=Імбир
+item.kelp.name=Ламінарія
+item.mint.name=М'ята
+item.white_sage.name=Білий шавлія
+item.mandrake_root.name=Корінь мандрагори
+item.lavender.name=Лаванда
+item.thistle.name=Чортополох
+item.silphium.name=Сильфий
+item.wormwood.name=Полин
+item.kenaf.name=Кенаф
+item.garlic.name=Часник
+item.tulsi.name=Тусли
+item.hellebore.name=Чемерник
+
+//Gemstones
+item.gem_garnet.name=Гарніт
+item.gem_moldavite.name=Молдавіт
+item.gem_nuummite.name=Нууммит
+item.gem_tourmaline.name=Турмалін
+item.gem_tigers_eye.name=Тигрове око
+item.gem_bloodstone.name=Кровавик
+item.gem_jasper.name=Яшма
+item.gem_malachite.name=Малахіт
+item.gem_amethyst.name=Аметист
+item.gem_alexandrite.name=Олександрит
+item.gemstone_amalgam.name=Амальгам
